@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Jack and Jill went up the Hill
 Use the left arrow to go back!
